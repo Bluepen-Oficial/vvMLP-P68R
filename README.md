@@ -97,7 +97,7 @@ Os resultados **caracterizam a proteína isolada**, não sua interação direta 
 ```text
 vvMLP-P68R/
 ├── README.md
-├── P68R.pdb                # adicionar o PDB predito
+├── P68R.pdb               
 └── figures/
     ├── plddt_p68r.png
     ├── rmsd_rmsf_wt_p68r.png
@@ -114,6 +114,8 @@ vvMLP-P68R/
 
 ## Origem dos dados
 
-As informações e figuras foram adaptadas do relatório final PIBITI e dos resumos científicos fornecidos pelos autores do projeto. A imagem de pLDDT e as três figuras comparativas foram disponibilizadas no material da pesquisa.
+Os dados, modelos estruturais e figuras disponibilizados neste repositório são provenientes da pesquisa desenvolvida no âmbito do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI), realizada no Instituto Federal de Brasília (IFB), Campus Planaltina.
 
-**Licença:** não declarada neste repositório. Verifique com os demais autores/orientação as condições de disponibilização e reutilização dos dados e figuras.
+Os resultados apresentados foram obtidos por meio de modelagem molecular, predição estrutural e simulações de dinâmica molecular, sendo também utilizados na elaboração do relatório técnico final e em trabalhos apresentados em eventos científicos.
+
+**Direitos de uso:** os dados e materiais disponibilizados são de autoria da equipe de pesquisa. A ausência de uma licença explícita não implica autorização para reprodução, modificação ou redistribuição. Para essas finalidades, recomenda-se entrar em contato com os autores responsáveis..
