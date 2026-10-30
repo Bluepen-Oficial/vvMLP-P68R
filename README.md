@@ -26,18 +26,29 @@ A comparação estrutural com o *soybean trypsin inhibitor* (STI) mostrou que es
 |---|---|
 | [`P68R.pdb`](vvMLP_P68R.pdb) | Estrutura predita da variante P68R (**adicione o arquivo a este repositório**) |
 
-O PDB pode ser visualizado, por exemplo, no **PyMOL**:
+O PDB pode ser visualizado, por exemplo, no **VMD**:
 
-```pymol
-load P68R.pdb
-hide everything
-show cartoon
-color cyan, all
-select posicao68, resi 68
-show sticks, posicao68
-```
+## Visualização da estrutura no VMD
 
-> **Atenção:** confirme a numeração do resíduo 68 no seu arquivo PDB antes de usar essa seleção. Ela depende da numeração gravada no próprio arquivo.
+O modelo tridimensional da variante P68R da vvMLP pode ser visualizado utilizando o **VMD (Visual Molecular Dynamics)**, ferramenta para visualização e análise de estruturas moleculares.
+
+Para carregar a estrutura:
+
+1. Abra o VMD.
+2. Acesse **File → New Molecule → Browse**.
+3. Selecione o arquivo `P68R.pdb` e clique em **Load**.
+4. Acesse **Graphics → Representations**.
+5. Em **Drawing Method**, selecione `NewCartoon`.
+6. Em **Coloring Method**, selecione `Structure` para diferenciar as estruturas secundárias da proteína.
+
+> **Atenção:** a seleção `resid 68` depende da numeração dos resíduos no arquivo PDB. Caso a numeração seja diferente, ajuste a seleção conforme a estrutura utilizada.
+
+### Visualização tridimensional da vvMLP-P68R
+
+![Visualização da variante P68R no VMD](figures/vvMLP-P68R-VMD.gif)
+
+*Representação tridimensional da variante P68R da vvMLP no VMD, destacando os elementos de estrutura secundária da proteína.*
+
 
 ## Metodologia resumida
 
