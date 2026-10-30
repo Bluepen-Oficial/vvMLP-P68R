@@ -45,7 +45,16 @@ Para carregar a estrutura:
 
 ### Visualização tridimensional da vvMLP-P68R
 
-![Visualização da variante P68R no VMD](figures/vvMLP-P68R-VMD.gif)
+
+<p align="center">
+  <img src="figures/vvMLP-P68R-VMD.gif"
+       alt="Visualização da variante P68R no VMD"
+       width="400">
+</p>
+
+<p align="center">
+  <em>Representação tridimensional da variante P68R da vvMLP no VMD.</em>
+</p>
 
 *Representação tridimensional da variante P68R da vvMLP no VMD, destacando os elementos de estrutura secundária da proteína.*
 
