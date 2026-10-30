@@ -56,7 +56,6 @@ Para carregar a estrutura:
   <em>Representação tridimensional da variante P68R da vvMLP no VMD.</em>
 </p>
 
-*Representação tridimensional da variante P68R da vvMLP no VMD, destacando os elementos de estrutura secundária da proteína.*
 
 
 ## Metodologia resumida
