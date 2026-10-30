@@ -86,7 +86,7 @@ O modelo predito conservou o dobramento global e a geometria inicial do laço re
 ### Confiança da predição (pLDDT)
 
 <p align="center">
-  <img src="figures/plddt.png"
+  <img src="figures/plddt_p68r.png"
        alt="Distribuição dos valores de pLDDT da variante P68R"
        width="650">
 </p>
