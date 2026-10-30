@@ -24,7 +24,7 @@ A comparação estrutural com o *soybean trypsin inhibitor* (STI) mostrou que es
 
 | Arquivo | Descrição |
 |---|---|
-| [`P68R.pdb`](P68R.pdb) | Estrutura predita da variante P68R (**adicione o arquivo a este repositório**) |
+| [`P68R.pdb`](vvMLP_P68R.pdb) | Estrutura predita da variante P68R (**adicione o arquivo a este repositório**) |
 
 O PDB pode ser visualizado, por exemplo, no **PyMOL**:
 
